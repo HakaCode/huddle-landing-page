@@ -21,10 +21,10 @@
 }
 
 body {
-	/**/
+	
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1.125em;
-	/*overflow: hidden;*/
+	
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -79,7 +79,6 @@ a.btn {
 .hero {
 	
 	width: 100%;
-	/* border: 3px solid red; */
 	display: inline-block;
 }
 
@@ -135,12 +134,6 @@ a.call-btn {
 
 /* Conteudo */
 
-/*.eu::after, .eu::before {
-	content: "";
-	display: table;
-	clear: both;
-}*/
-
 .cont {
 	max-width: 1200px;
 	margin: 0 auto;
@@ -148,11 +141,6 @@ a.call-btn {
 	
 	
 }
-
-/*.wrapper {
-	margin: 160px 0;
-	background: orange;
-}*/
 
 .cont-item {
 	width: 100%;
